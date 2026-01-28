@@ -7,6 +7,7 @@ aap_workflow_job_template = {
   organization = "Default"
 }
 #
+#
 aap_inventory = {
   name = "Terraform Inventory"
   organization = "Default"
